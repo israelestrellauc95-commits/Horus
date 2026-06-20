@@ -1,5 +1,5 @@
 {
-  "version": "10.1.1",
-  "url": "https://addons.mozilla.org/firefox/downloads/file/4859472/3bb8a9355c4c42249985-10.1.1.zip",
-  "notes": "Stow Map Heatmap con filtros multi-select, DPMO KPI, alertas VRID mejoradas"
+    "version": "10.1.2",
+    "url": "https://addons.mozilla.org/firefox/downloads/file/4860172/3bb8a9355c4c42249985-10.1.2.zip",
+    "notes": "YMS Yard automático,fix carga instantánea dashboard, fix gráfica Volumen vs Plan al inicio"
 }
