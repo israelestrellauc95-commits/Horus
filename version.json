@@ -1,5 +1,5 @@
 {
-    "version": "10.1.2",
-    "url": "https://addons.mozilla.org/firefox/downloads/file/4860172/3bb8a9355c4c42249985-10.1.2.zip",
-    "notes": "YMS Yard automático,fix carga instantánea dashboard, fix gráfica Volumen vs Plan al inicio"
+    "version": "10.1.3",
+    "url": "https://addons.mozilla.org/firefox/downloads/file/4860485/3bb8a9355c4c42249985-10.1.3.zip",
+    "notes": "Stowmap auto-reauth, carga instantánea dashboard y progreso"
 }
