@@ -1,6 +1,5 @@
 {
-  "version": "10.0.0",
-  "url": "https://github.com/israelestrellauc95-commits/Horus/releases/latest/download/Horus.xpi",
-  "notes": "Extensión exclusiva Inbound (removido todo Outbound) Tour/Onboarding interactivo con guía paso a paso"
+  "version": "10.1.1",
+  "url": "https://addons.mozilla.org/firefox/downloads/file/4859472/3bb8a9355c4c42249985-10.1.1.zip",
+  "notes": "Stow Map Heatmap con filtros multi-select, DPMO KPI, alertas VRID mejoradas"
 }
-
