@@ -1,5 +1,5 @@
 {
-    "version": "10.1.5",
-    "url": "https://addons.mozilla.org/firefox/downloads/file/4868517/3bb8a9355c4c42249985-10.1.5.xpi",
-    "notes": "Asignaciones estilo Zone-RA, mensajería FANS integrada, historial 30 días, coordenadas network MX"
+    "version": "10.1.6",
+    "url": "https://addons.mozilla.org/firefox/downloads/file/4868550/3bb8a9355c4c42249985-10.1.6.xpi",
+    "notes": "FANS integrado, historial 30 días con tooltip, analytics mejorado, auto-install en banner"
 }
