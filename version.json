@@ -1,5 +1,5 @@
 {
-    "version": "10.2.0",
+    "version": "10.2.1",
     "url": "https://github.com/israelestrellauc95-commits/horus/releases/latest/download/Horus.xpi",
-    "notes": "Cumplimiento del Plan (15 min), progreso Transfer/Recibo, FANS directo, SOS con meta desglosada y LS In"
+    "notes": "FMC auto-retry, progreso con hora parcial, reporte de bugs, tema claro en mapas, SVGs corregidos"
 }
