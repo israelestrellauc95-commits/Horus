@@ -1,5 +1,5 @@
 {
-    "version": "10.2.1",
+    "version": "10.2.2",
     "url": "https://github.com/israelestrellauc95-commits/horus/releases/latest/download/Horus.xpi",
-    "notes": "FMC auto-retry, progreso con hora parcial, reporte de bugs, tema claro en mapas, SVGs corregidos"
+    "notes": "Drag & drop en asignaciones + input por login, VRIDs en sitio + Oculus"
 }
