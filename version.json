@@ -1,5 +1,5 @@
 {
-    "version": "10.2.2",
-    "url": "https://github.com/israelestrellauc95-commits/horus/releases/latest/download/Horus.xpi",
-    "notes": "Drag & drop en asignaciones + input por login, VRIDs en sitio + Oculus"
+  "version": "10.3.0",
+  "url": "https://github.com/israelestrellauc95-commits/horus/releases/latest/download/Horus.xpi",
+  "notes": "Rediseño: nuevo dashboard con nuevas graficas, mapa orbital, tema Cyberpunk, EOS simplificado, tablas con barras de datos, vista satelital de VRIDs"
 }
